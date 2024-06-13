@@ -1,0 +1,44 @@
+[
+    {
+        "category": [
+            "Media Education"
+        ],
+        "definition": "Media education is the process of teaching and learning about media. It includes understanding the impact of media on society, the development of critical thinking skills, and the use of media for communication and expression."
+    },
+    {
+        "category": [
+            "Media Communication"
+        ],
+        "definition": "Media communication refers to the ways in which information is transmitted through mass media such as television, radio, film, newspapers, and the internet. It involves understanding the different types of media, their roles and functions, and how they influence society and culture."
+    },
+    {
+        "category": [
+            "Media Literacy"
+        ],
+        "definition": "Media literacy is the ability to access, analyze, evaluate, and create media in a variety of forms. It is a crucial skill in the digital age, enabling individuals to understand and navigate the complex world of media."
+    },
+    {
+        "category": [
+            "Digital Media"
+        ],
+        "definition": "Digital media refers to any media that are encoded in machine-readable formats. Digital media can be created, viewed, distributed, modified and preserved on digital electronics devices."
+    },
+    {
+        "category": [
+            "Social Media"
+        ],
+        "definition": "Social media refers to websites and applications that enable users to create and share content or to participate in social networking. It is a powerful tool for communication and information dissemination in the modern world."
+    },
+    {
+        "category": [
+            "Media Ethics"
+        ],
+        "definition": "Media ethics is the subdivision of applied ethics dealing with the specific ethical principles and standards of media, including broadcast media, film, theatre, the arts, print media and the internet."
+    },
+    {
+        "category": [
+            "Media Law"
+        ],
+        "definition": "Media law is a legal field that relates to legal regulation of the telecommunications industry, information technology, broadcasting, advertising, the entertainment industry, censorship, and internet and online services among others."
+    }
+]
