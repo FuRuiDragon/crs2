@@ -33,7 +33,7 @@ import openai
 import re
 
 
-openai.api_key = "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"
+openai.api_key = "your openai api key"
 
 
 # to identify whether a student is sure about the topic he supposed or not
